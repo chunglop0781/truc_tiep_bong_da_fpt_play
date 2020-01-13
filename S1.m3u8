@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2190200,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=1280x720
-https://livecdn.fptplay.net/hdevent/vtc1_2000.stream/chunklist.m3u8?token=
+https://web-livecdn.fptplay.net/hdevent/sukien01_1500.stream/chunklist.m3u8?token=
 
